@@ -1,4 +1,5 @@
-# sample
+~~~bash
+#sample
 # Practice Session
 Student-Project-Repo/
 ├── Code/
